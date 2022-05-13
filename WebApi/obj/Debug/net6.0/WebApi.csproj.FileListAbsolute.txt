@@ -1,0 +1,908 @@
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/appsettings.json
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/WebApi.exe
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/coding/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/coding/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.exe
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/finalTEST/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.exe
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/refint/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/Pc Market/Desktop/New folder (2)/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.exe
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/finalassignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/huy/Desktop/coding/final/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/huy/Desktop/coding/finalTest/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.dll
+D:/ZaloDown/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.pdb
+D:/ZaloDown/WebApi/bin/Debug/net6.0/appsettings.Development.json
+D:/ZaloDown/WebApi/bin/Debug/net6.0/appsettings.json
+D:/ZaloDown/WebApi/bin/Debug/net6.0/WebApi.exe
+D:/ZaloDown/WebApi/bin/Debug/net6.0/WebApi.deps.json
+D:/ZaloDown/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+D:/ZaloDown/WebApi/bin/Debug/net6.0/WebApi.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/WebApi.pdb
+D:/ZaloDown/WebApi/bin/Debug/net6.0/AutoMapper.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Humanizer.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/ZaloDown/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:/ZaloDown/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+D:/ZaloDown/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+D:/ZaloDown/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+D:/ZaloDown/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/appsettings.json
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/WebApi.exe
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/WebApi.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/refint/WebApi.dll
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/Pc Market/Desktop/RookiesTeam3/New folder/webapi/obj/Debug/net6.0/ref/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.exe
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/refint/WebApi.dll
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/Pc Market/Desktop/New folder (3)/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.exe
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/ClosedXML.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/ExcelNumberFormat.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IO.Packaging.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+C:/Users/huy/Desktop/finalbackend/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/appsettings.json
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/WebApi
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/WebApi.deps.json
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/WebApi.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/WebApi.pdb
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/ClosedXML.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/ExcelNumberFormat.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.IO.Packaging.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/huy/Desktop/Test2/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+/Users/huy/Desktop/Test2/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/ClosedXML.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/ExcelNumberFormat.dll
+/Users/huy/Desktop/final assignment/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IO.Packaging.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.exe
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/ref/WebApi.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/ClosedXML.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/ExcelNumberFormat.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IO.Packaging.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+c:/Users/huy/Desktop/final/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/appsettings.json
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.deps.json
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.runtimeconfig.json
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/WebApi.pdb
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/ClosedXML.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/ExcelNumberFormat.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.IO.Packaging.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/scopedcss/bundle/WebApi.styles.css
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.csproj.CopyComplete
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/refint/WebApi.dll
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.pdb
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
+/Users/nguyenduchuy/Desktop/untitled folder/RookiesTeam3/WebApi/obj/Debug/net6.0/ref/WebApi.dll

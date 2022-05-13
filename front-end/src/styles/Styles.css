@@ -1,0 +1,43 @@
+.content {
+    text-align: initial;
+}
+
+.fontHeaderContent {
+    font: 1em Sans-serif;
+    font-weight: bold;
+    color: #cf2338;
+}
+
+.buttonSave {
+    background-color: #e30c18 !important;
+    color: aliceblue !important;
+    border-radius: 4px !important;
+    border-color: aliceblue !important;
+    width: 60px !important;
+    text-align: center !important;
+    margin-right: 10px !important;
+    padding: 2px !important;
+
+}
+
+.buttonCancel {
+    display: inline-block !important;
+    color: black !important;
+    border-radius: 4px !important;
+    width: 60px !important;
+    border: 1.75px solid gray !important;
+    text-align: center !important;
+    margin-right: 10px ;
+    padding: 2px !important;
+
+}
+
+.inputForm {
+    border-radius: 4px !important;
+    border: 2px solid #a3a8ad !important;
+}
+.buttonState {
+    border: none ! important;
+    background: transparent !important;
+    padding: 0 !important;
+}

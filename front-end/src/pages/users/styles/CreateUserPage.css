@@ -1,0 +1,24 @@
+.content{
+    text-align: initial;
+}
+.fontHeaderContent{
+    font: 1em Sans-serif;
+    font-weight: bold;
+    color: #cf2338;
+}
+.buttonSave{
+    background-color: #cf2338 !important;
+    color: aliceblue !important;
+    border-radius: 4px !important;
+    border-color: aliceblue !important;
+}
+.buttonCancel{
+    display: "inline-block" ;
+    color: #a3a8ad !important;
+    border-radius: 4px !important;
+    border: 2px solid #a3a8ad !important;
+}
+.inputForm{
+    border-radius: 4px !important;
+    border: 2px solid #a3a8ad !important;
+}
